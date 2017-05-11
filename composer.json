@@ -1,0 +1,33 @@
+{
+    "name": "christianhanggra/bizzy-template-repo",
+    "description": "Bizzy Template Repository for Laravel 5.3",
+    "keywords": [
+        "laravel",
+        "template",
+        "moloquent",
+        "guzzle",
+        "pdf"
+    ],
+    "homepage": "https://github.com/christianhanggra/bizzy-template-repo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Hanggra",
+            "email": "christianhanggra@gmail.com",
+            "homepage": "https://github.com/christianhanggra",
+            "role": "Tech Enthusiast"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "~1.21",
+        "guzzlehttp/guzzle": "^6.2",
+        "league/fractal": "^0.14.0",
+        "moloquent/moloquent": "^0.3.0",
+        "vsmoraes/laravel-pdf": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Christianhanggra\\Bizzy\\Template\\": "src/"
+        }
+    }
+}
