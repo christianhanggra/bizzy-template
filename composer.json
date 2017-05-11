@@ -29,5 +29,7 @@
         "psr-4": {
             "Christianhanggra\\Bizzy\\Template\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
