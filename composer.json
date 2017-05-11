@@ -1,5 +1,5 @@
 {
-    "name": "christianhanggra/bizzy-template-repo",
+    "name": "christianhanggra/bizzy-template",
     "description": "Bizzy Template Repository for Laravel 5.3",
     "keywords": [
         "laravel",
@@ -8,7 +8,7 @@
         "guzzle",
         "pdf"
     ],
-    "homepage": "https://github.com/christianhanggra/bizzy-template-repo",
+    "homepage": "https://github.com/christianhanggra/bizzy-template",
     "license": "MIT",
     "authors": [
         {
